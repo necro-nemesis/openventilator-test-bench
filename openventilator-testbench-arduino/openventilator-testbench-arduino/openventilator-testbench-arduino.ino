@@ -22,10 +22,11 @@ void loop() {
     
     // read the most recent byte (which will be from 0 to 255):
     outValue = Serial.parseInt();
-    Serial.println(outValue);
+    //Serial.println(outValue);
 
-     if (outValue > -1 && outValue < 181)
+     if (outValue > -1 && outValue < 101)
      {
+        outValue = map(outValue, 0, 100, 0, 180);
         ESC.write(outValue);    // Send the signal to the ESC
      }
   }

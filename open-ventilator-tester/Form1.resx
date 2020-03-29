@@ -124,12 +124,12 @@
   <data name="btnOpenTestcycle.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEpSURBVDhP3ZG/S8NAGIbz96iLOLhndFXQwcFBSsAhN6h/
-        gZu4OoiC7qWOHdRJxMFFEPwxWKu0Tdur+XW5ZHy9O5oj5mLo7AdPDr7c+9yXi1WsNE1RB+c8EixPt5uV
-        bzy/ecFrpwfHcWDbtoYQAt/34z8luWDj6BpzbhOdPsWg7yEMIiVwXbdaIkKbovGcC1jCsT6VfI0CLRgN
-        x6Yky7Ktx/chlvYuYa2eGqwdXmmBXIsSxlhkicfH4m4L5OxOneZNQvTGAVYO2sYEZSilUN8tT+p6vr7t
-        4vhxFCtBGS0QE3QXSBP7F/f4DpkSHLefasMSLRAX0Xh4G2BeSHZObpUgSZLasEQLZInAtpjkM2ZcCaoC
-        ZX4J8pIN+aIqUOa/C2bFEIhfqpqzQ/ED2eDPKLur5xwAAAAASUVORK5CYII=
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEpSURBVDhP3ZE9S8NAGMfzedRFHNwzuiro4OAgJeCQG9RP
+        4CauDqKge6ljB3UScXARBF8Ga5W2aXs1L3d5Gf/eHc0RczF09oFfDp7c/3dPLlax0jRFHUmSRILl6Xaz
+        8o3nNy947fTgOA5s29YQQuD7PvtTkgs2jq4x5zbR6VMM+h7CIFIC13WrJSK0KRrPuYDHCdankq9RoAWj
+        4diUZFm29fg+xNLeJazVU4O1wystkGtRwjmPLPH4WNxtgZzdqdO8SYjeOMDKQduYoAylFOq75Uldz9e3
+        XRyfRUwJymgBY6y7QJrYv7jHd8iV4Lj9VBuWaIG4iMbD2wDzQrJzcqsEcRzXhiVaIEsEtsUkn4wnSlAV
+        KPNLkJdsyBdVgTL/XTArhkD8UtWcHYofzdTPIjlsUWMAAAAASUVORK5CYII=
 </value>
   </data>
   <data name="btnSaveParameters.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -158,6 +158,22 @@
         hiofHoCBAQDLogB0oo6ceAAAAABJRU5ErkJggg==
 </value>
   </data>
+  <data name="toolStripButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA7SURBVDhPYxgc4Nu3b//JwVDtEAMYgueQhIejAeRgqHbc
+        BkClCcpj9QKyAkLyw8UAbBgqTVB+IAEDAwDHp8E8KY3jZgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btnMotorManual.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACaSURBVDhPtZCxDYAgEEVvAmdwFMMK1g5mYqFb6BAmFvau
+        YAOUiuYwJx5wjT95EeTf0wC/xFpbaq17Y8zh2N2+wiM+WHyhlHpw+x2rfK4BqLsXgeDAKh8vuJ6eQLBg
+        lQ8nkIDjXwH9eoyswK85xIJx3u737bQ+Z/Qcx/N3EEqighxewgpSFM2Q/gMaWhDfAQ0txBAJciQFUgAA
+        Tlx6Hz7FhZ73AAAAAElFTkSuQmCC
+</value>
+  </data>
   <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>122, 17</value>
   </metadata>
@@ -169,5 +185,14 @@
   </metadata>
   <metadata name="tmrWriteLog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>555, 17</value>
+  </metadata>
+  <metadata name="timerAudioReplot.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>675, 17</value>
+  </metadata>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>823, 17</value>
+  </metadata>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>910, 17</value>
   </metadata>
 </root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCyclepoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cyclepoint>
+    <outp>50</outp>
+    <dura>5</dura>
+  </Cyclepoint>
+  <Cyclepoint>
+    <outp>75</outp>
+    <dura>5</dura>
+  </Cyclepoint>
+  <Cyclepoint>
+    <outp>100</outp>
+    <dura>5</dura>
+  </Cyclepoint>
+  <Cyclepoint>
+    <outp>75</outp>
+    <dura>5</dura>
+  </Cyclepoint>
+  <Cyclepoint>
+    <outp>50</outp>
+    <dura>5</dura>
+  </Cyclepoint>
+  <Cyclepoint>
+    <outp>100</outp>
+    <dura>5</dura>
+  </Cyclepoint>
+</ArrayOfCyclepoint>
